@@ -7,6 +7,7 @@
 // @grant        none
 // @run-at       document-start
 // @noframes
+// @namespace https://greasyfork.org/en/users/324178-bhackel
 // ==/UserScript==
 
 (function() {
